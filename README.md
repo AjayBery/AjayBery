@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ajay! Passionate about Information Technology</a></h1>
+<h1>Hi, I'm Ajay! Passionate Information Technology Professional</a></h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
